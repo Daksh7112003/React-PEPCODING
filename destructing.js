@@ -1,5 +1,5 @@
 
-//Destructing in arrays
+//Destructing in arrays.
 
 let arr =["HI","ji","AM","LI"];
 //let[a,b,c,d]= arr
