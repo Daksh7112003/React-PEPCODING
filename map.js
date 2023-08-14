@@ -15,8 +15,5 @@ console.log(value,idx) //to print the value and the index of it
 return value*2;
 })
 
-
-
-
 console.log(arr)
 console.log(narr)
